@@ -9,5 +9,7 @@
             "email": "mike.d.morrissey@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "inertiajs/inertia-laravel": "^0.5.4"
+    }
 }
