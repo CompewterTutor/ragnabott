@@ -1,0 +1,13 @@
+{
+    "name": "ubuntu/ragnabott",
+    "description": "Website and Discord Bot for Ragnarokk Burning Man CAmp",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Morrissey",
+            "email": "mike.d.morrissey@gmail.com"
+        }
+    ],
+    "require": {}
+}
