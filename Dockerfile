@@ -39,6 +39,7 @@ RUN apk add --update \
     php${PHP_VERSION}-opcache \
     php${PHP_VERSION}-xml \
     php${PHP_VERSION}-xdebug  \
+    php${PHP_VERSION}-zip  \
     php-redis \
     # Extra
     curl \
